@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+
+        <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+        <link rel="stylesheet" href="style.css">
+        <script src="index.js" defer></script>
+        <title>Frontend Mentor | Expenses chart component</title>
+    </head>
+    <body>
+        <main>
+            <section class="balance">
+              <div class="balance-text">
+                <p>My balance</p>
+                <p class="balance-amount">$921.48</p>
+              </div>
+              <svg width="72" height="48" viewBox="0 0 72 48" xmlns="http://www.w3.org/2000/svg">
+                <g fill="none" fill-rule="evenodd">
+                  <circle fill="#382314" cx="48" cy="24" r="24" />
+                  <circle stroke="#FFF" stroke-width="2" cx="24" cy="24" r="23" />
+                </g>
+              </svg>
+            </section>
+
+            <section class="spending">
+                <h1>Spending - Last 7 days</h1>
+                <div class="chart">
+                    <div class="chart-item"> 
+                        <div class="chart-amount"></div>
+                        <div class="graph"></div>
+                        <p class="gray chart-day">mon</p>
+                    </div>
+                    <div class="chart-item"> 
+                        <div class="chart-amount"></div>
+                        <div class="graph"></div>
+                        <p class="gray chart-day">tue</p>
+                    </div>
+                    <div class="chart-item"> 
+                        <div class="chart-amount"></div>
+                        <div class="graph"></div>
+                        <p class="gray chart-day">wed</p>
+                    </div>
+                    <div class="chart-item"> 
+                        <div class="chart-amount"></div>
+                        <div class="graph"></div>
+                        <p class="gray chart-day">thu</p>
+                    </div>
+                    <div class="chart-item"> 
+                        <div class="chart-amount"></div>
+                        <div class="graph"></div>
+                        <p class="gray chart-day">fri</p>
+                    </div>
+                    <div class="chart-item">
+                        <div class="chart-amount"></div>
+                        <div class="graph"></div>
+                        <p class="gray chart-day">sat</p>
+                    </div>
+                    <div class="chart-item">
+                        <div class="chart-amount"></div>
+                        <div class="graph"></div>
+                        <p class="gray chart-day">sun</p>
+                    </div>
+                </div>
+                <hr>
+                <div class="end-balance">
+                    <div class="spending-text">
+                        <p class="gray">Total this month</p>
+                        <p class="spending-amount">$478.33</p>
+                    </div>
+                    <div class="progress">
+                        <h4>+2.4%</h4>
+                        <p class="gray">from last month</p>
+                    </div>
+                </div>
+            </section>
+            
+            <div class="attribution">
+                Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
+                Coded by <a href="#">Veljko Jelenković</a>.
+            </div>
+        </main>     
+    </body>
+</html>
