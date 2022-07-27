@@ -18,19 +18,20 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/screenshot1.jpg)
+![](./images/screenshot2.jpg)
 
 
-### Links
+### Link
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://jelenkoo10.github.io/expenses_chart_component/)
 
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties, CSS variables
+- Asynchronous JavaScript
 - Flexbox
 - Mobile-first workflow
 
@@ -38,5 +39,5 @@ Users should be able to:
 ## Author
 
 - Github - [@jelenkoo10](https://github.com/jelenkoo10)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/jelenkoo10)
+- Frontend Mentor - [@jelenkoo10](https://www.frontendmentor.io/profile/jelenkoo10)
 
