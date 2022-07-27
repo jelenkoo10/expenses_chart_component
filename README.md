@@ -2,7 +2,7 @@
 
 This is a solution to the [Expenses chart component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/expenses-chart-component-e7yJBUdjwt). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Table of contents
+## Description
 
 - Mobile-first solution using Flexbox
 - The challenge - Expenses chart component challenge
@@ -16,15 +16,17 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 - Use the JSON data file provided to dynamically size the bars on the chart
 
-### Screenshot
+### Screenshots
 
 ![](./images/screenshot1.jpg)
-![](./images/screenshot2.jpg)
+Desktop desing of expenses chart component.
 
+![](./images/screenshot2.jpg)
+Mobile design of expenses chart component.
 
 ### Link
 
-- Live Site URL: [Add live site URL here](https://jelenkoo10.github.io/expenses_chart_component/)
+- Live Site URL: [https://jelenkoo10.github.io/expenses_chart_component/](https://jelenkoo10.github.io/expenses_chart_component/)
 
 
 ### Built with
