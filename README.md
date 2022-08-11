@@ -1,13 +1,17 @@
-# Frontend Mentor - Expenses chart component solution
+# Expenses Chart Component challenge
 
 This is a solution to the [Expenses chart component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/expenses-chart-component-e7yJBUdjwt). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Description
+## Table of contents
 
-- Mobile-first solution using Flexbox and async JavaScript
-- The challenge - Expenses chart component challenge
-- Built with HTML, CSS, JavaScript
-- Author - Veljko Jelenković
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [Process](#process)
+  - [Built with](#built-with)
+- [Author](#author)
+
+## Overview
 
 Users should be able to:
 - View the bar chart and hover over the individual bars to see the correct amounts for each day
@@ -18,25 +22,26 @@ Users should be able to:
 
 ### Screenshots
 
+Desktop and mobile design of expenses chart component.
+
 ![](./images/screenshot1.jpg)
-Desktop desing of expenses chart component.
 
 ![](./images/screenshot2.jpg)
-Mobile design of expenses chart component.
 
 ### Link
 
-- Live Site URL: [https://jelenkoo10.github.io/expenses_chart_component/](https://jelenkoo10.github.io/expenses_chart_component/)
+- Live Site URL: [Expenses chart component](https://jelenkoo10.github.io/expenses_chart_component/)
 
+## Process
 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties, CSS variables
+- CSS custom properties
+- CSS variables
 - Asynchronous JavaScript
 - Flexbox
 - Mobile-first workflow
-
 
 ## Author
 
