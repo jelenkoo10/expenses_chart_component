@@ -129,10 +129,6 @@ main {
 
 /* Attribution at the bottom */
 .attribution {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
     text-align: center;
     font-size: small;
 }

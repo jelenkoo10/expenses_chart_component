@@ -4,7 +4,7 @@ This is a solution to the [Expenses chart component challenge on Frontend Mentor
 
 ## Description
 
-- Mobile-first solution using Flexbox
+- Mobile-first solution using Flexbox and async JavaScript
 - The challenge - Expenses chart component challenge
 - Built with HTML, CSS, JavaScript
 - Author - Veljko Jelenković
