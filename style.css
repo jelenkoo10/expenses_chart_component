@@ -133,9 +133,18 @@ main {
     font-size: small;
 }
 
+/* Media queries */
 @media screen and (min-width: 740px) {
     main {
         width: 500px;
         margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .chart-amount {
+        font-size: x-small;
+        padding: 0.15em;
+        border-radius: 0.2em;
     }
 }
