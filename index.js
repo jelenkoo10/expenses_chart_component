@@ -6,6 +6,8 @@ fetch("./data.json")
     .then(() => makeChart(chartData))
 
 function makeChart(data) {
+    const d = new Date()
+    let day = d.getDay()
     const graphItems = document.getElementsByClassName("graph")
     const amounts = document.getElementsByClassName("chart-amount")
     let max
@@ -20,7 +22,9 @@ function makeChart(data) {
 
     for (let i = 0; i < data.length; i++) {
         graphItems[i].style.height = `${data[i].amount / maxHeight * 115}px`
-        data[i].amount == max ? 
+        day == 0 ? 
+        graphItems[6].style.backgroundColor = "hsl(186, 34%, 60%)" :
+        i == day - 1 ? 
         graphItems[i].style.backgroundColor = "hsl(186, 34%, 60%)" :
         graphItems[i].style.backgroundColor = "hsl(10, 79%, 65%)"
         graphItems[i].addEventListener("mouseover", function() {
