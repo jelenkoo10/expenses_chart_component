@@ -47,4 +47,4 @@ Desktop and mobile design of expenses chart component.
 
 - Github - [@jelenkoo10](https://github.com/jelenkoo10)
 - Frontend Mentor - [@jelenkoo10](https://www.frontendmentor.io/profile/jelenkoo10)
-
+- LinkedIn - [Veljko Jelenković](https://www.linkedin.com/in/veljko-jelenkovi%C4%87-182981250/)
